@@ -16,16 +16,12 @@ body{
 }
 .header h1 {
   margin: 0px;
-  font-weight:400;
+  font-weight: 400;
 }
 
 .header .main-text{
   padding: 3em;
   font-size: 2em;
-  font-weight: 400;
-}
-
-.header h1{
   font-weight: 400;
 }
 
